@@ -71,7 +71,7 @@ Unlike classical chess, certain moves may result in unexpected behavior, mimicki
 ## 🤝 Credits
 
 - Chess piece assets by JohnPablok (CC License)
-- Developed by [22k-4439 Jayant Kumar, 22k-4590 Shyam Sundar, 19k-0273]
+- Developed by [22k-4439 Jayant Kumar, 22k-4590 Shyam Sundar, 19k-0273 Shahzaib Khan]
 
 ---
 
